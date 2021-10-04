@@ -180,7 +180,7 @@ function popupSection() {
 
     function popToggle() {
         popup.classList.toggle("open")
-        bodyScollingToggle()
+        bodyScrollingToggle()
     }
 
     function popupSlideShow() {
